@@ -63,8 +63,8 @@ Con `M = I` se obtiene el GC simple. Con `M = diag(A)` se obtiene Jacobi. Con `M
 
 ```
 .
-├── index.html   # aplicación completa (HTML + CSS + JavaScript)
-└── README.md    # este archivo
+├── index.html   # aplicación completa 
+└── README.md    
 ```
 
 ## 5. Arquitectura
